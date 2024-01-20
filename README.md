@@ -1,4 +1,4 @@
-# Bioata Diri
+# Biodata Diri
 
 Nama : Diki Hamdani
 
